@@ -1,11 +1,4 @@
-<div >
- <br />
-  <div align="center" >
-   <a href="https://youtu.be/pqYxZ8jd768" target="_blank">
-     <img  src="public/images/Final.png" style="border-radius:10px;"  alt="Project Banner">
-   </a></div>
- <br />
- <br />
+<img width="1843" height="826" alt="image" src="https://github.com/user-attachments/assets/d33ba2b9-bb5c-48ee-ada9-4aa5bd8bde54" />
 
  <div>
    <img src="https://img.shields.io/badge/-React_JS_V19-black?style=for-the-badge&logoColor=white&logo=react&color=007ACC" alt="react.js" />
@@ -14,11 +7,10 @@
 
  </div>
 
- <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site of the Day Website</h3>
+ <h3 style="font-weight:700;font-size:30px;">SPYLT Milk</h3>
 
   <div >
-    Ready to build a website that has won an Awwwards Site of the Day?
-    This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
+    A <br>React + Tailwind CSS </br>clone of the SPYLT Milk website with <br>GSAP </br>animations for smooth and interactive UI.
    </div>
 </div>
 
